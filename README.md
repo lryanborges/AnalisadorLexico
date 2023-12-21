@@ -1,7 +1,7 @@
 Segue o passo a passo pra executar o Analisador Léxico em C++:
 
-- Deve ser executado dentro de um sistema Unix
-- No terminal:
+ - Deve ser executado dentro de um sistema Unix
+ - No terminal:
   1. sudo apt update
   2. sudo apt upgrade
   3. sudo apt install g++ gdb
