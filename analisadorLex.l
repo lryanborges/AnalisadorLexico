@@ -43,6 +43,8 @@ digito [0-9]
 ">"                                                                 return SSYMBOL;
 "<"                                                                 return SSYMBOL;
 "="                                                                 return SSYMBOL;
+"<="                                                                return SSYMBOL;
+">="                                                                return SSYMBOL;
 ","                                                                 return SSYMBOL;
 (({minusc}+):" "?({minusc}+))                                       return DTYPE;
 
